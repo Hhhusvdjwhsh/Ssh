@@ -8,7 +8,7 @@
 <font color="blue"><b>🤨𝑵𝑶 𝑷𝑶𝑹𝑵18+ !!!</b></font><br>
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
 <font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪ 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 : 𝒉𝒕𝒕𝒑𝒔://𝒘𝒂.𝒎𝒆/6285176708678</b></font><br>
-<font color="#00FFFF"><b>+https://wa.me/6281255378890</b></font><br>
+<font color="#00FFFF"><b>+https://wa.me/6285176708678/b></font><br>
 <font color="green"><b>➪ Support by Emelda Tunnels❤️</b></font><br>
 
 
