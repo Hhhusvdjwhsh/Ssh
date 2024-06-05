@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Hhhusvdjwhsh/Ssh/main/"
+    REPO="https://raw.githubusercontent.com/Hhhusvdjwhsh/Ssh/main"
 
 ####
 start=$(date +%s)
@@ -316,8 +316,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6205242427"
-KEY="7067621582:AAHu3Hkncs7bX6dUju6YrwtRi-12NNvlY80"
+CHATID="6955195414"
+KEY="6900758463:AAFf07bBbYIJD5YErd6rEv6XHecLSg_qYWg"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="

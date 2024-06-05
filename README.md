@@ -1,5 +1,5 @@
 <p style="text-align:center">
-<font color="#FF1493">⚡Irfannotsepuh Premium tunneling⚡</font><br />
+<font color="#FF1493">⚡ReeMods Premium tunneling⚡</font><br />
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font><br>
 <font color="yellow"><b>🤗 2 𝑳𝑶𝑮𝑰𝑵 𝑫𝑬𝑽𝑰𝑪𝑬 !!! </b></font><br>
 <font color="magenta"><b>😋𝑵𝑶 𝑫𝑫𝑶𝑺!!! </b></font><br>
@@ -7,8 +7,8 @@
 <font color="green"><b>😃 𝑵𝑶 𝑴𝑼𝑳𝑻𝑰𝑳𝑶𝑮𝑰𝑵 !!!</b></font><br>
 <font color="blue"><b>🤨𝑵𝑶 𝑷𝑶𝑹𝑵18+ !!!</b></font><br>
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
-<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪ 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 : 𝒉𝒕𝒕𝒑𝒔://𝒘𝒂.𝒎𝒆/6285176708678</b></font><br>
-<font color="#00FFFF"><b>+https://wa.me/6285176708678/b></font><br>
+<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪ 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 : 𝒉𝒕𝒕𝒑𝒔://𝒘𝒂.𝒎𝒆/6281255378890</b></font><br>
+<font color="#00FFFF"><b>+https://wa.me/6281255378890</b></font><br>
 <font color="green"><b>➪ Support by Emelda Tunnels❤️</b></font><br>
 
 
@@ -52,7 +52,7 @@ Auto Script Install All VPN Service ReeMods
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Over_DNS-success.svg">  <img src="https://img.shields.io/badge/Service-SSLH-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel5-success.svg">  <img src= "https://img.shields.io/badge/Service-OHP_Open_Http_Puncher-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
-<p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_ofTROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
+<p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
 
 
